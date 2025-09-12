@@ -86,4 +86,4 @@ git clone https://github.com/tharushiImasha/Cloud-Deployment.git
 
 
 ## 📄 License Information
-This project is distributed under the MIT License and available as open-source software.
+This project is distributed under the [MIT License](LICENSE).. 
