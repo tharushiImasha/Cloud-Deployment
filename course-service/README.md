@@ -31,13 +31,13 @@ Check out the demonstration: [See Video Here](https://drive.google.com/file/d/1c
 1. Launch Cloud Shell or local terminal and establish connection:
 
 ```bash
-mysql -h <YOUR_PUBLIC_IP> -P 3306 -u root -p
+docker run -it --rm mysql:8 mysql -h <YOUR_PUBLIC_IP> -u root -p
 ```
 
 Example connection:
 
 ```bash
-mysql -h 34.135.121.174 -P 3306 -u root -p
+docker run -it --rm mysql:8 mysql -h 34.57.148.206 -u root -p
 ```
 
 Enter your configured password (`Mysql-ECA1!`).
