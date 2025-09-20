@@ -1,5 +1,9 @@
 # Deployment in GCP
 
+### * Tharushi Imasha - GDSE68 - 2301682050
+### * tharushi.byb@gmail.com
+
+
 ## 🌟 Project Overview
 This repository showcases my hands-on assignment for **Enterprise Cloud Architecture**. The project illustrates the deployment of a Spring Boot application with MySQL database integration using Google Cloud SQL services.
 
